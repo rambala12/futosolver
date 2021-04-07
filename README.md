@@ -1,4 +1,4 @@
-# Simple Map
+# Futo Solver
 This program reads a futoshiki puzzle defined in a text file. The program then solves the puzzle and displays the completed puzzle. 
 ## What is a futoshiki puzzle?
 A futoshiki puzzle is similar to a sudoku puzzle, where the solutions consists of numbers the obey certain rules. A futoshiki puzzle board is always n-by-n size and certain positions/blocks have constraints regarding numbers around them. For example, one box can have a constraint that it must be greater than the box above it. The numbers used in the puzzle can only be 1 through n.
